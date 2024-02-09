@@ -1,2 +1,5 @@
 Flask
 PyQRCode
+
+# Node.js dependencies
+node==20.0.0
